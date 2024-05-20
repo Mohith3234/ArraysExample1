@@ -1,0 +1,7 @@
+C:\Csharp\ArraysExample1\ArraysExample1\bin\Debug\ArraysExample1.exe.config
+C:\Csharp\ArraysExample1\ArraysExample1\bin\Debug\ArraysExample1.exe
+C:\Csharp\ArraysExample1\ArraysExample1\bin\Debug\ArraysExample1.pdb
+C:\Csharp\ArraysExample1\ArraysExample1\obj\Debug\ArraysExample1.csproj.AssemblyReference.cache
+C:\Csharp\ArraysExample1\ArraysExample1\obj\Debug\ArraysExample1.csproj.CoreCompileInputs.cache
+C:\Csharp\ArraysExample1\ArraysExample1\obj\Debug\ArraysExample1.exe
+C:\Csharp\ArraysExample1\ArraysExample1\obj\Debug\ArraysExample1.pdb
